@@ -1,2 +1,2 @@
-# datasciencecourser
+# datasciencecoursera
 Johns Hopkins Specialization
